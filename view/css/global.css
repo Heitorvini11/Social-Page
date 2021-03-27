@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(156, 35, 255);
+ 
+}
+
+h1 {
+    font-size: 70px;
+    font-family: fantasy;
+    background-color: rgb(0, 0, 0);
+    line-height: 5cm;
+    color: honeydew;
+    text-align: center;
+    margin:0px !important;
+    padding: 0px !important;
+}
+
+#imagem {
+    max-width: 100%;
+      transition: all 0.35s;
+}
+
+#imagem:hover {
+    transform: scale(1.1);
+  }
