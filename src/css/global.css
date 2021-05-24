@@ -40,3 +40,14 @@ a, abbr{
     transform: scale(1.1);
 }
 
+.historia {
+    background-color: black;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+    width: 90%;
+    margin: 0 auto;
+    font-size: 2vw;
+    color: honeydew;
+    text-align: center;
+
+}
